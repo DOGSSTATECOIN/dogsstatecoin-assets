@@ -2,13 +2,13 @@
   "name": "DOGSSTATECOIN",
   "symbol": "DSC",
   "description": "Been there! Dog that! The official DOGSSTATECOIN for DOGS STATE ONLINE loyalty and rewards.",
-  "image": "https://raw.githubusercontent.com/DOGSSTATECOIN/dogsstatecoin-assets/refs/heads/main/DOGSSTATECOIN%20(1).png",
+  "image": "https://raw.githubusercontent.com/DOGSSTATECOIN/dogsstatecoin-assets/main/DOGSSTATECOIN.png",
   "decimals": 9,
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/youruser/dogsstatecoin-assets/main/DOGSSTATECOIN.png",
+        "uri": "https://raw.githubusercontent.com/DOGSSTATECOIN/dogsstatecoin-assets/main/DOGSSTATECOIN.png",
         "type": "image/png"
       }
     ]
