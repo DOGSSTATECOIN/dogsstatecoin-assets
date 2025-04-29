@@ -1,0 +1,2 @@
+# dogsstatecoin-assets
+METADATA
